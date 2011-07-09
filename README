@@ -1,1 +1,4 @@
 Scripts used to program Arduino without using the IDE
+
+The Makefile must be modified according the hw owned.
+See utility/boards.txt 
