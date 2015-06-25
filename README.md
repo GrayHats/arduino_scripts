@@ -22,6 +22,6 @@ cp utility/arduino.vim ~/.vim/syntax/
 echo "autocmd! BufNewFile,BufRead *.pde setlocal ft=arduino" >> ~/.vimrc
 ```
 
-## Useful Sketch
+## Useful Sketches
 
  * [Arduino Dot Matrix Display](https://github.com/blackout314/arduinoDMD)
